@@ -1,5 +1,5 @@
 Bot Project
-This project is a modern WhatsApp Bot application developed using C#. It incorporates advanced technologies, patterns, and architectural best practices to ensure scalability, security, and maintainability.
+This project is a modern  Bot application developed using C#. It incorporates advanced technologies, patterns, and architectural best practices to ensure scalability, security, and maintainability.
 
 Technologies and Features
 Entity Framework Core and PostgreSQL (Code-First approach for database modeling).
